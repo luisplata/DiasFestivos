@@ -1,6 +1,6 @@
 {
     "name": "luisplata/festivos-colombia",
-    "description": "Libreria que calcula si una fecha es festivo",
+    "description": "Libreria que calcula si una fecha es festivo o no",
     "homepage": "https://github.com/luisplata/DiasFestivosColombia",
     "license": "MIT",
     "authors": [
