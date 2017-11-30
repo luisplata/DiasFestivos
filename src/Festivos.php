@@ -1,5 +1,5 @@
 <?php
-namespace luisplata/FestivosColombia;
+namespace luisplata\FestivosColombia;
 
 class Festivos 
 {

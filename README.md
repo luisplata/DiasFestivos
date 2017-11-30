@@ -14,7 +14,7 @@ Libreria para calcular si una fecha es festivo en el pais de colombia
 Via Composer
 
 ``` bash
-$ composer require luisplata/festivos-colombia
+$ composer require luisplata/festivos-colombia @dev
 ```
 
 ## Usage
