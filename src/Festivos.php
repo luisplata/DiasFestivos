@@ -1,6 +1,7 @@
 <?php
+namespace luisplata/FestivosColombia;
 
-class festivos 
+class Festivos 
 {
 
 	private $hoy;
@@ -117,5 +118,9 @@ class festivos
 		}
 	
 	}	
+	
+	public function prueba($dato = true){
+		return $dato;
+	}
 }
 ?>
